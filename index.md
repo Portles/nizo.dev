@@ -60,3 +60,5 @@ This policy is effective as of 2022-08-06
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at nizamet005@gmail.com.
+
+Take a look at [Terms & Conditions](/Terms & Conditions.md) for more information.
