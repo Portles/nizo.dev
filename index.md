@@ -16,7 +16,7 @@ The app does use third-party services that may collect information used to ident
 
 Link to the privacy policy of third-party service providers used by the app
 
-*   [Facebook](https://www.facebook.com/about/privacy/update/printable)
+*   [Revenuecat](https://www.revenuecat.com/privacy/)
 
 **Log Data**
 
